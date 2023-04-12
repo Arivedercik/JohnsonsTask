@@ -1,0 +1,7 @@
+D:\Games\Приложения\Visual Studio\Djo\Djo\bin\Debug\Djo.exe.config
+D:\Games\Приложения\Visual Studio\Djo\Djo\bin\Debug\Djo.exe
+D:\Games\Приложения\Visual Studio\Djo\Djo\bin\Debug\Djo.pdb
+D:\Games\Приложения\Visual Studio\Djo\Djo\obj\Debug\Djo.csprojAssemblyReference.cache
+D:\Games\Приложения\Visual Studio\Djo\Djo\obj\Debug\Djo.csproj.CoreCompileInputs.cache
+D:\Games\Приложения\Visual Studio\Djo\Djo\obj\Debug\Djo.exe
+D:\Games\Приложения\Visual Studio\Djo\Djo\obj\Debug\Djo.pdb
